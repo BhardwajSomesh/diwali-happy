@@ -69,3 +69,17 @@ section.content img
     opacity: 0.5;
     mix-blend-mode: overlay;
 }
+
+.firstname
+{
+	font-size:20px;
+}
+.name
+{
+font-size:30px;
+	
+}
+.somi
+{
+	font-size:30px;
+}
